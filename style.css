@@ -9,7 +9,7 @@ section  {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: #001d30;
+    background: #061a27;
     animation: changeBg 5s linear infinite;
 }
 
